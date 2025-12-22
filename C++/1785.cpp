@@ -1,30 +1,20 @@
+#include <algorithm>
 #include <iostream>
 #include <string>
+#include <utility>
+#include <vector>
 
 int main() {
+  const std::vector<std::pair<int, std::string>> ranges = {
+      {5, "few"},     {10, "several"},  {20, "pack"},
+      {50, "lots"},   {100, "horde"},   {250, "throng"},
+      {500, "swarm"}, {1000, "zounds"}, {2001, "legion"}};
+
   int count;
   std::cin >> count;
 
-  std::string result;
-  if (count < 5) {
-    result = "few";
-  } else if (count < 10) {
-    result = "several";
-  } else if (count < 20) {
-    result = "pack";
-  } else if (count < 50) {
-    result = "lots";
-  } else if (count < 100) {
-    result = "horde";
-  } else if (count < 250) {
-    result = "throng";
-  } else if (count < 500) {
-    result = "swarm";
-  } else if (count < 1000) {
-    result = "zounds";
-  } else {
-    result = "legion";
-  }
-  std::cout << result << '\n';
+  auto it = std::find_if(ranges.begin(), ranges.end(),
+                         [count](const auto& p) { return count < p.first; });
+  std::cout << it->second << '\n';
   return 0;
 }
