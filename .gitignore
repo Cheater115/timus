@@ -1,0 +1,8 @@
+# IDE
+*.user
+.idea
+*.cbp
+.vs
+
+# OS
+.DS_Store
