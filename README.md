@@ -14,3 +14,5 @@ This repository contains solutions to various programming problems from the Timu
 - [1877. Велосипедные коды](https://acm.timus.ru/problem.aspx?space=1&num=1877) [[C++](C++/1877.cpp) | [Python](Python/1877.py)]
 - [2001. Математики и ягоды](https://acm.timus.ru/problem.aspx?space=1&num=2001) [[C++](C++/2001.cpp) | [Python](Python/2001.py)]
 - [2012. Про Гришу Н.](https://acm.timus.ru/problem.aspx?space=1&num=2012) [[C++](C++/2012.cpp) | [Python](Python/2012.py)]
+- [2066. Простое выражение](https://acm.timus.ru/problem.aspx?space=1&num=2066) [[C++](C++/2066.cpp) | [Python](Python/2066.py)]
+- [2100. Свадебный обед](https://acm.timus.ru/problem.aspx?space=1&num=2100) [[C++](C++/2100.cpp) | [Python](Python/2100.py)]
