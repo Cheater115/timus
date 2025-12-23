@@ -8,6 +8,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1293. Эния](https://acm.timus.ru/problem.aspx?space=1&num=1293) [[C++](C++/1293.cpp) | [Python](Python/1293.py)]
 - [1409. Два бандита](https://acm.timus.ru/problem.aspx?space=1&num=1409) [[C++](C++/1409.cpp) | [Python](Python/1409.py)]
 - [1785. Трудности локализации](https://acm.timus.ru/problem.aspx?space=1&num=1785) [[C++](C++/1785.cpp) | [Python](Python/1785.py)]
+- [1787. Поворот на МЕГУ](https://acm.timus.ru/problem.aspx?space=1&num=1787) [[C++](C++/1787.cpp) | [Python](Python/1787.py)]
 - [1877. Велосипедные коды](https://acm.timus.ru/problem.aspx?space=1&num=1877) [[C++](C++/1877.cpp) | [Python](Python/1877.py)]
 - [2001. Математики и ягоды](https://acm.timus.ru/problem.aspx?space=1&num=2001) [[C++](C++/2001.cpp) | [Python](Python/2001.py)]
 - [2012. Про Гришу Н.](https://acm.timus.ru/problem.aspx?space=1&num=2012) [[C++](C++/2012.cpp) | [Python](Python/2012.py)]
