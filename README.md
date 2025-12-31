@@ -20,6 +20,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1877. Велосипедные коды](https://acm.timus.ru/problem.aspx?space=1&num=1877) [[C++](C++/1877.cpp) | [Python](Python/1877.py)]
 - [1880. Собственные числа Psych Up](https://acm.timus.ru/problem.aspx?space=1&num=1880) [[C++](C++/1880.cpp) | [Python](Python/1880.py)]
 - [1910. Руины титанов: сокрытый вход](https://acm.timus.ru/problem.aspx?space=1&num=1910) [[C++](C++/1910.cpp) | [Python](Python/1910.py)]
+- [1924. Четыре чертёнка](https://acm.timus.ru/problem.aspx?space=1&num=1924) [[C++](C++/1924.cpp) | [Python](Python/1924.py)]
 - [2001. Математики и ягоды](https://acm.timus.ru/problem.aspx?space=1&num=2001) [[C++](C++/2001.cpp) | [Python](Python/2001.py)]
 - [2012. Про Гришу Н.](https://acm.timus.ru/problem.aspx?space=1&num=2012) [[C++](C++/2012.cpp) | [Python](Python/2012.py)]
 - [2066. Простое выражение](https://acm.timus.ru/problem.aspx?space=1&num=2066) [[C++](C++/2066.cpp) | [Python](Python/2066.py)]
