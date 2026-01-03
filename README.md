@@ -30,6 +30,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1880. Собственные числа Psych Up](https://acm.timus.ru/problem.aspx?space=1&num=1880) [[C++](C++/1880.cpp) | [Python](Python/1880.py)]
 - [1910. Руины титанов: сокрытый вход](https://acm.timus.ru/problem.aspx?space=1&num=1910) [[C++](C++/1910.cpp) | [Python](Python/1910.py)]
 - [1924. Четыре чертёнка](https://acm.timus.ru/problem.aspx?space=1&num=1924) [[C++](C++/1924.cpp) | [Python](Python/1924.py)]
+- [1991. Битва у болото](https://acm.timus.ru/problem.aspx?space=1&num=1991) [[C++](C++/1991.cpp) | [Python](Python/1991.py)]
 - [2001. Математики и ягоды](https://acm.timus.ru/problem.aspx?space=1&num=2001) [[C++](C++/2001.cpp) | [Python](Python/2001.py)]
 - [2012. Про Гришу Н.](https://acm.timus.ru/problem.aspx?space=1&num=2012) [[C++](C++/2012.cpp) | [Python](Python/2012.py)]
 - [2023. Дональд-почтальон](https://acm.timus.ru/problem.aspx?space=1&num=2023) [[C++](C++/2023.cpp) | [Python](Python/2023.py)]
