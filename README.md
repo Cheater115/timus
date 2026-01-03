@@ -14,6 +14,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1293. Эния](https://acm.timus.ru/problem.aspx?space=1&num=1293) [[C++](C++/1293.cpp) | [Python](Python/1293.py)]
 - [1313. К вопросу о спорте](https://acm.timus.ru/problem.aspx?space=1&num=1313) [[C++](C++/1313.cpp) | [Python](Python/1313.py)]
 - [1319. Отель](https://acm.timus.ru/problem.aspx?space=1&num=1319) [[C++](C++/1319.cpp) | [Python](Python/1319.py)]
+- [1327. Предохранители](https://acm.timus.ru/problem.aspx?space=1&num=1327) [[C++](C++/1327.cpp) | [Python](Python/1327.py)]
 - [1409. Два бандита](https://acm.timus.ru/problem.aspx?space=1&num=1409) [[C++](C++/1409.cpp) | [Python](Python/1409.py)]
 - [1567. SMS-спам](https://acm.timus.ru/problem.aspx?space=1&num=1567) [[C++](C++/1567.cpp) | [Python](Python/1567.py)]
 - [1581. Работа в команде](https://acm.timus.ru/problem.aspx?space=1&num=1581) [[C++](C++/1581.cpp) | [Python](Python/1581.py)]
