@@ -10,6 +10,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1197. Один в поле воин](https://acm.timus.ru/problem.aspx?space=1&num=1197) [[C++](C++/1197.cpp) | [Python](Python/1197.py)]
 - [1209. 1, 10, 100, 1000...](https://acm.timus.ru/problem.aspx?space=1&num=1209) [[C++](C++/1209.cpp) | [Python](Python/1209.py)]
 - [1225. Флаги](https://acm.timus.ru/problem.aspx?space=1&num=1225) [[C++](C++/1225.cpp) | [Python](Python/1225.py)]
+- [1243. Развод семи гномов](https://acm.timus.ru/problem.aspx?space=1&num=1243) [[C++](C++/1243.cpp) | [Python](Python/1243.py)]
 - [1263. Выборы](https://acm.timus.ru/problem.aspx?space=1&num=1263) [[C++](C++/1263.cpp) | [Python](Python/1263.py)]
 - [1264. Трудовые будни](https://acm.timus.ru/problem.aspx?space=1&num=1264) [[C++](C++/1264.cpp) | [Python](Python/1264.py)]
 - [1293. Эния](https://acm.timus.ru/problem.aspx?space=1&num=1293) [[C++](C++/1293.cpp) | [Python](Python/1293.py)]
