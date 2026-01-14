@@ -29,6 +29,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1581. Работа в команде](https://acm.timus.ru/problem.aspx?space=1&num=1581) [[C++](C++/1581.cpp) | [Python](Python/1581.py)]
 - [1585. Пингвины](https://acm.timus.ru/problem.aspx?space=1&num=1585) [[C++](C++/1585.cpp) | [Python](Python/1585.py)]
 - [1607. Такси](https://acm.timus.ru/problem.aspx?space=1&num=1607) [[C++](C++/1607.cpp) | [Python](Python/1607.py)]
+- [1636. Штрафное время](https://acm.timus.ru/problem.aspx?space=1&num=1636) [[C++](C++/1636.cpp) | [Python](Python/1636.py)]
 - [1639. Шоколад 2](https://acm.timus.ru/problem.aspx?space=1&num=1639) [[C++](C++/1639.cpp) | [Python](Python/1639.py)]
 - [1785. Трудности локализации](https://acm.timus.ru/problem.aspx?space=1&num=1785) [[C++](C++/1785.cpp) | [Python](Python/1785.py)]
 - [1787. Поворот на МЕГУ](https://acm.timus.ru/problem.aspx?space=1&num=1787) [[C++](C++/1787.cpp) | [Python](Python/1787.py)]
