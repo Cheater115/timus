@@ -36,6 +36,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1876. Утро сороконожки](https://acm.timus.ru/problem.aspx?space=1&num=1876) [[C++](C++/1876.cpp) | [Python](Python/1876.py)]
 - [1877. Велосипедные коды](https://acm.timus.ru/problem.aspx?space=1&num=1877) [[C++](C++/1877.cpp) | [Python](Python/1877.py)]
 - [1880. Собственные числа Psych Up](https://acm.timus.ru/problem.aspx?space=1&num=1880) [[C++](C++/1880.cpp) | [Python](Python/1880.py)]
+- [1893. A380](https://acm.timus.ru/problem.aspx?space=1&num=1893) [[C++](C++/1893.cpp) | [Python](Python/1893.py)]
 - [1910. Руины титанов: сокрытый вход](https://acm.timus.ru/problem.aspx?space=1&num=1910) [[C++](C++/1910.cpp) | [Python](Python/1910.py)]
 - [1924. Четыре чертёнка](https://acm.timus.ru/problem.aspx?space=1&num=1924) [[C++](C++/1924.cpp) | [Python](Python/1924.py)]
 - [1991. Битва у болото](https://acm.timus.ru/problem.aspx?space=1&num=1991) [[C++](C++/1991.cpp) | [Python](Python/1991.py)]
