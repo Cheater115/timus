@@ -7,6 +7,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1005. Куча камней](https://acm.timus.ru/problem.aspx?space=1&num=1005) [[C++](C++/1005.cpp) | [Python](Python/1005.py)]
 - [1025. Демократия в опасности](https://acm.timus.ru/problem.aspx?space=1&num=1025) [[C++](C++/1025.cpp) | [Python](Python/1025.py)]
 - [1068. Сумма](https://acm.timus.ru/problem.aspx?space=1&num=1068) [[C++](C++/1068.cpp) | [Python](Python/1068.py)]
+- [1083. Факториалы!!!](https://acm.timus.ru/problem.aspx?space=1&num=1083) [[C++](C++/1083.cpp) | [Python](Python/1083.py)]
 - [1100. Таблица результатов](https://acm.timus.ru/problem.aspx?space=1&num=1100) [[C++](C++/1100.cpp) | [Python](Python/1100.py)]
 - [1110. Степень](https://acm.timus.ru/problem.aspx?space=1&num=1110) [[C++](C++/1110.cpp) | [Python](Python/1110.py)]
 - [1120. Сумма последовательных чисел](https://acm.timus.ru/problem.aspx?space=1&num=1120) [[C++](C++/1120.cpp) | [Python](Python/1120.py)]
