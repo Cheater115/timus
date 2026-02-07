@@ -14,6 +14,7 @@ This repository contains solutions to various programming problems from the Timu
 - [1119. Метро](https://acm.timus.ru/problem.aspx?space=1&num=1119) [[C++](C++/1119.cpp) | [Python](Python/1119.py)]
 - [1120. Сумма последовательных чисел](https://acm.timus.ru/problem.aspx?space=1&num=1120) [[C++](C++/1120.cpp) | [Python](Python/1120.py)]
 - [1131. Копирование](https://acm.timus.ru/problem.aspx?space=1&num=1131) [[C++](C++/1131.cpp) | [Python](Python/1131.py)]
+- [1139. Городские кварталы](https://acm.timus.ru/problem.aspx?space=1&num=1139) [[C++](C++/1139.cpp) | [Python](Python/1139.py)]
 - [1196. Экзамен по истории](https://acm.timus.ru/problem.aspx?space=1&num=1196) [[C++](C++/1196.cpp) | [Python](Python/1196.py)]
 - [1197. Один в поле воин](https://acm.timus.ru/problem.aspx?space=1&num=1197) [[C++](C++/1197.cpp) | [Python](Python/1197.py)]
 - [1209. 1, 10, 100, 1000...](https://acm.timus.ru/problem.aspx?space=1&num=1209) [[C++](C++/1209.cpp) | [Python](Python/1209.py)]
